@@ -77,7 +77,12 @@
 
 ## 参考资料
 
+建议完整阅读以下两个出题教程：
+
 https://oi-wiki.org/contest/problemsetting/
 
-https://github.com/luogu-dev/cyaron
+https://docs.google.com/document/d/e/2PACX-1vRhazTXxSdj7JEIC7dp-nOWcUFiY8bXi9lLju-k6vVMKf4IiBmweJoOAMI-ZEZxatXF08I9wMOQpMqC/pub
 
+随机生成测试用例的库：
+
+https://github.com/luogu-dev/cyaron
